@@ -1,4 +1,4 @@
-# Terraform-Exercices
+# Terraform-Exercises
 Real World, Self Starter Terraform Examples
 
 <center>
